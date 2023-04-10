@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **qasem.talaee1375@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://github.com/qasem-talaee/qasem-talaee/blob/master/cv/qasem-talaee-cv.pdf)
+- 📄 Know about my experiences [My Resume](https://github.com/qasem-talaee/qasem-talaee/blob/master/cv/qasem-talaee-cv-en.pdf)
 
 
 <h3 align="left">Connect with me:</h3>
